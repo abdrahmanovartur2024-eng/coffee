@@ -18,7 +18,7 @@
     font-family: 'Times New Roman', Times, serif;
 }
 body {
-    background: #000000 url('images/insidecoffee.jpg') center/cover no-repeat fixed;
+    background: #000000 url('insidecoffee.jpg') center/cover no-repeat fixed;
     font-size: 1.8vh;
     /*значение по умолчанию 1.8vh = 16px = 1rem при 100% масштаба*/
 }
@@ -390,4 +390,5 @@ body {
     color: #b89c00;
     border: .1125vh solid #b89c00;
     box-shadow: 0 0 1.125vh #000000;
+
 }
